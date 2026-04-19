@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+env/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+.python-version
+
+# Rope
+.ropeproject
+
+# Editors / OS files
+.idea/
+.vscode/
+.DS_Store
+.bash_profile
+
+# Django stuff
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+
+# Ignore data and ckpts
+*.pth
+data
+src/checkpoints
+
+# Ignore results
+tmp
+eval_results
+outputs/
+runs/
+wandb/
+src/cut3r_512_dpt_4_64.pth
