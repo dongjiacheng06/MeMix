@@ -1,9 +1,5 @@
 <h2 align="center"><a href="https://dongjiacheng06.github.io/MeMix/">MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction</a></h2>
 
-
-
-<br>
-
 <h5 align="center">
 
   [![Arxiv](https://img.shields.io/badge/Arxiv-2603.15330-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2603.15330)
